@@ -1,0 +1,20 @@
+{
+    "result": [
+        {
+            "Seq": 1,
+            "Vendor_no": "0ne001"
+        },
+        {
+            "Seq": 2,
+            "Vendor_no": "TW0002"
+        },
+        {
+            "Seq": 3,
+            "Vendor_no": "Three003"
+        },
+        {
+            "Seq": 4,
+            "Vendor_no": "F0UR004"
+        }
+    ]
+}
